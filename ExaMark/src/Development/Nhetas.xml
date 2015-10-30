@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<!--
+A implementar:
+    -Importar logins;
+    -Cruzar logins com logins existentes, eliminar logins existentes que não
+    constem na lista de logins importados;
+    -Permitir assinalar operadores para irem a exame médico;
+    -Registar data de marcação;
+    -Fazer contagem de dias desde ultimo exame médico;
+
+Funções a incluir:
+    -Utilizador Scheduling:
+        -assinalar operadores marcados para exame médico;
+        -
+    -Utilizador Planeamento:
+        -seleccionar edificio e data, se for data em que houve exames marcados
+        nesse edificio mostrar lista de operadores marcados;
+        -seleccionar operadores que compareceram a exame
+        
+-->
+<root>
+    
+</root>
