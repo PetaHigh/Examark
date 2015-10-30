@@ -21,7 +21,11 @@ Funções a incluir:
     -Utilizador Planeamento:
         -seleccionar edificio e data, se for data em que houve exames marcados
         nesse edificio mostrar lista de operadores marcados;
-        -seleccionar operadores que compareceram a exame
+        -seleccionar operadores que compareceram a exame. Após a correcção ser
+        salva o programa deve desmarcar os operadores que deviam ter ido a exame
+        e não foram. nos que compareceram deve ser actualizada a data do último
+        exame;
+        
         
 -->
 <root>
