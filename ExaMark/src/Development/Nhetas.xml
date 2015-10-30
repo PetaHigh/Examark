@@ -13,7 +13,10 @@ A implementar:
     -Permitir assinalar operadores para irem a exame médico;
     -Registar data de marcação;
     -Fazer contagem de dias desde ultimo exame médico;
-
+    -devem aparecer na lista de aptos para exame operadores que:
+        -data ultimo exame > 2 anos;
+        -data ultimo exame > 1 ano se operador tiver +50 anos;
+        -novos operadores (operadores sem data de ultimo exame);
 Funções a incluir:
     -Utilizador Scheduling:
         -assinalar operadores marcados para exame médico;
